@@ -1,20 +1,45 @@
-# User function Template for python3
-
 class Solution:
-    
-    #Function to reverse words in a given string.
-    def reverseWords(self,S):
-        return ".".join((S.split(".")[::-1]))
+    #mycode
+    def reverseArray(self, arr):
+        return arr.reverse()
+        
+        
+        
+
 
 #{ 
  # Driver Code Starts
-# Initial Template for Python 3
+import sys
 
-if __name__ == '__main__':
-    t = int(input())
-    for i in range(t):
-        s = str(input())
+
+def main():
+    # Read the number of test cases
+    tc = int(sys.stdin.readline())
+
+    while tc > 0:
+        # Read the array elements as a string
+        str_arr = sys.stdin.readline().split()
+
+        # Convert the string array to an integer array
+        arr = [int(x) for x in str_arr]
+
+        # Create a Solution object
         obj = Solution()
-        print(obj.reverseWords(s))
+
+        # Reverse the array
+        obj.reverseArray(arr)
+
+        # Print the reversed array
+        for i in range(0, len(arr)):
+            print(arr[i], end=" ")
+        print()
+        print("~")
+
+        # Decrement the test case count
+        tc -= 1
+
+
+if __name__ == "__main__":
+    main()
 
 # } Driver Code Ends

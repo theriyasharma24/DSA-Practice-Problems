@@ -1,0 +1,37 @@
+class Solution:
+    ##Complete this function
+    #Function to find the sum of contiguous subarray with maximum sum.
+    def maxSubArraySum(self,arr):
+        current_sum = 0
+        max_sum = float('-inf')
+
+    for num in arr:
+        current_sum = max(num, current_sum + num) #the maximum sum of the subarray that ends at the current position.
+        max_sum = max(max_sum, current_sum) #the maximum sum encountered so far across any subarray.
+
+    return max_sum
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+import math
+
+
+def main():
+    T = int(input())
+    while (T > 0):
+
+        arr = [int(x) for x in input().strip().split()]
+
+        ob = Solution()
+
+        print(ob.maxSubArraySum(arr))
+
+        T -= 1
+
+
+if __name__ == "__main__":
+    main()
+
+# } Driver Code Ends

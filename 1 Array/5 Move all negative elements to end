@@ -1,0 +1,34 @@
+class Solution:
+    def segregateElements(self, arr):
+        positive=[i for i in arr if i>=0]
+        negative=[i for i in arr if i<0]
+        arr[:]=positive+negative
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+
+def main():
+
+    T = int(input())
+
+    while (T > 0):
+        a = [int(x) for x in input().strip().split()]
+        ob = Solution()
+        ob.segregateElements(a)
+        print(*a)
+
+        T -= 1
+        print("~")
+
+
+if __name__ == "__main__":
+    main()
+
+# } Driver Code Ends
+
+
+
+#Time Complexity = O(n)
+#Space Complexity = O(n)

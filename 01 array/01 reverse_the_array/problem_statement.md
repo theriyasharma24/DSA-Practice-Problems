@@ -1,6 +1,4 @@
-# Problem Statement: Reverse an Array
-
-# Problem Link: https://www.geeksforgeeks.org/problems/reverse-an-array/1?itm_source=geeksforgeeks
+# Problem Statement: [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1?itm_source=geeksforgeeks)
 
 ## Difficulty: Easy
 

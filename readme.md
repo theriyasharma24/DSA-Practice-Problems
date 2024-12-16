@@ -1,10 +1,8 @@
 # DSA Practice Problems
 
-Welcome to the **DSA Solutions Repository**! This is an open-source collection of Data Structures and Algorithms (DSA) problems, categorized and solved in multiple programming languages. The aim of this repository is to contain optimized solutions for a large set of problems (450+) from [Love Babbar's DSA list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1). 
+The aim of this repository is to contain optimized solutions solved in multiple programming languages for a large set of problems (450+) from [Love Babbar's DSA list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1). 
 
-If you believe that your solution is **more optimized** than the existing one in the repository, feel free to open a **Pull Request (PR)** with your improved version.
-
-Whether you're a beginner, intermediate, or expert in DSA, this repository is a great place to practice, contribute, and learn.
+You can add your solutions or if you believe that your solution is **more optimized** than the existing one in the repository, feel free to open a **Pull Request (PR)** with your improved version.
 
 ## Table of Contents
 
@@ -17,9 +15,7 @@ Whether you're a beginner, intermediate, or expert in DSA, this repository is a 
 
 ## Overview
 
-The aim of this repository is to contain optimized solutions for a large set of problems (450+) from [Love Babbar's DSA list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1). The problems are sourced from popular platforms like **LeetCode**, **GeeksforGeeks**, **HackerRank**, etc., and are sorted into categories such as:
-
-
+The problems are sourced from popular platforms like **LeetCode**, **GeeksforGeeks**, **HackerRank**, etc., and are sorted into categories such as:
 - Arrays
 - Matrix
 - String

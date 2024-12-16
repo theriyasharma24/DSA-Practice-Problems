@@ -33,7 +33,7 @@ Each problem has:
 ## Contributing
 
 We encourage contributions from everyone! Here's how you can get involved:
-
+- Before creating a PR, you can create an issue with **new DSA problem** label and link your PR with the issue. (optional)
 - **Fork** this repository
 - **Clone** it to your local machine
 - Choose a problem or category

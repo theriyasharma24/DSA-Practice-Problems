@@ -1,6 +1,4 @@
-# Problem Statement: Move all negative elements to end
-
-# Problem Link: [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
+# Problem Statement: [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
 
 ## Difficulty: Easy
 

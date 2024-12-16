@@ -1,6 +1,4 @@
-# Problem Statement: Sort 0s, 1s, and 2s
-
-# Problem Link: [Sort an Array of 0s, 1s, and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+# Problem Statement: [Sort an Array of 0s, 1s, and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
 ## Difficulty: Easy
 

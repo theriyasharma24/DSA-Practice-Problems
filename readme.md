@@ -33,17 +33,17 @@ Each problem has:
 ## Contributing
 
 We encourage contributions from everyone! Here's how you can get involved:
-- Before creating a PR, you can create an issue with **new DSA problem** and **good first issue** label and link your PR with the issue. (optional)
+- Create an issue
 - **Fork** this repository
 - **Clone** it to your local machine
 - Choose a problem or category
-- **Add your solution** in your preferred language
+- **Add or update a solution** in your preferred language
 - At the bottom of your solution file, please add **Time and Space Complexities** of your code in form of comments.
-- Add relevant **test cases** to validate your solution (if applicable)
 - **Commit** your changes and **push** them to your fork
 - **Create a Pull Request (PR)** with a description of the changes and screenshot of passed test cases on any platform.
+- **Link the issue with the PR** to close it when PR gets merged. 
 
-If you want to help improve the repository or have suggestions for new features, feel free to open an issue or contribute directly!
+If you want to help improve the repository or have suggestions for new features, feel free to open an issue!
 
 ## Repository Structure
 

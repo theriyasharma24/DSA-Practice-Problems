@@ -86,8 +86,6 @@ To add a new solution:
 
 We recommend that you test your solution thoroughly before submitting it. If your solution passes **all the test cases on the respective platform** (e.g., LeetCode, GeeksforGeeks), you can proceed with submitting it.
 
-Once your solution passes the platform's test cases, **you are ready to submit**.
-
 ---
 
 **Thank you for contributing!** 🚀

@@ -30,7 +30,7 @@ Each problem has:
 - A solution in multiple languages (e.g., Python, Java, C++)
 - Optional **test cases** for validating the solution
 
-## Contributing
+## Start Contributing
 
 We encourage contributions from everyone! Here's how you can get involved:
 - Create an issue

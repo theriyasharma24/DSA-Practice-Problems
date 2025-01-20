@@ -1,6 +1,6 @@
 # DSA Practice Problems
 
-The aim of this repository is to contain optimized solutions solved in multiple programming languages for a large set of problems (450+) from [Love Babbar's DSA list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1). 
+The aim of this repository is to contain optimized solutions solved in multiple programming languages for a large set of problems (450+) from [Love Babbar's DSA list](https://docs.google.com/spreadsheets/d/1hOcdXqguI7MM3U2EEoHYExMLWnVl19SrMs3llFXjeqA/edit?usp=sharing). 
 
 You can add your solutions or if you believe that your solution is **more optimized** than the existing one in the repository, feel free to open a **Pull Request (PR)** with your improved version.
 

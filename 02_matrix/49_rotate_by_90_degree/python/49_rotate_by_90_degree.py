@@ -1,10 +1,8 @@
 def rotate(mat): 
-    n = len(mat)
-    m = len(mat[0])
+    n,m = len(mat), len(mat[0])
     for i in range(n - 1):
         for j in range(i, m):
             mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
-
     for i in range(n):
         mat[i].reverse()
     return mat
@@ -27,6 +25,5 @@ if __name__ == '__main__':
             print()
         print("~")
 # } Driver Code Ends
-
 #Time Complexity: O(N^2)
 #Space Complexity: O(1)

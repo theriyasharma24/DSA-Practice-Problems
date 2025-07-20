@@ -1,7 +1,3 @@
-Sure! Here's a detailed write-up in the same format as your example, for **Leetcode 876: Middle of the Linked List**:
-
----
-
 # Problem Statement: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Difficulty: Easy

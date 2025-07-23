@@ -46,3 +46,7 @@ class Solution:
             return jumps
         else:
             return -1 # Should only be hit if the initial `if arr[0] == 0` didn't catch it and `i > farthest_reach` wasn't enough.
+        
+
+#Time Complexity: O(n)
+#Space Complexity: O(1)
